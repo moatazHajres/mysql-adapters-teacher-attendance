@@ -4,6 +4,6 @@ you must create a mysql database named 'teacher_attendance' with 4 tables (atten
 
 or import the attached database sql file.
 
-الطالب معتز هجرس -162132.
+الطالب معتز هجرس -162132
 
 this HW was done using table adapters & datasets.
